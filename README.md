@@ -1,8 +1,8 @@
 $${\color{red}
-👋 Hi, I’m @MAHESH3171 \space
- 👀 I’m interested in ... \space
-🌱 I’m currently learning ... \space
- 💞️ I’m looking to collaborate on ... \space
+👋 Hi, I’m @MAHESH3171 
+ 👀 I’m interested in ...
+🌱 I’m currently learning ... 
+ 💞️ I’m looking to collaborate on ... 
  📫 How to reach me ... }$$
 <!---
 MAHESH3171/MAHESH3171 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
